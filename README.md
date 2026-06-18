@@ -57,20 +57,6 @@ This is a realistic synthetic dataset (no missing values), built to simulate dai
 **AI Revenue Growth (%) Over Time by Company**
 ![Revenue growth scatter](charts/03_revenue_growth_scatter.png)
 
-## 📁 Project Structure
-
-```
-ai-financial-market-analysis/
-├── README.md
-├── requirements.txt
-├── AI_Financial_Market_Analysis.ipynb
-├── data/
-│   └── ai_financial_market_daily_realistic_synthetic.csv
-├── charts/
-│   └── (chart images used in this README)
-└── report/
-    └── AI_Financial_Market_Analysis_Report.pdf
-```
 
 ## 👩‍💻 Author
 
