@@ -54,9 +54,6 @@ This is a realistic synthetic dataset (no missing values), built to simulate dai
 **Correlation Between Financial Metrics**
 ![Correlation heatmap](charts/04_correlation_heatmap.png)
 
-**Top 10 Single-Day Stock Impact Events**
-![Top event impact](charts/06_top_event_impact.png)
-
 **AI Revenue Growth (%) Over Time by Company**
 ![Revenue growth scatter](charts/03_revenue_growth_scatter.png)
 
