@@ -77,7 +77,7 @@ ai-financial-market-analysis/
 **Sneha Mandlik**
 Fresher Data Analyst | Python | SQL | Power BI | Mumbai
 
-[LinkedIn](www.linkedin.com/in/sneha-mandlik-29431b24a) · [GitHub](https://github.com/SnehaMandlik)
+[LinkedIn](https://www.linkedin.com/in/sneha-mandlik-29431b24a/) · [GitHub](https://github.com/SnehaMandlik)
 
 ## 📄 License
 
