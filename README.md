@@ -57,20 +57,6 @@ This is a realistic synthetic dataset (no missing values), built to simulate dai
 **AI Revenue Growth (%) Over Time by Company**
 ![Revenue growth scatter](charts/03_revenue_growth_scatter.png)
 
-## 🚀 How to Run This Project
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/<your-username>/ai-financial-market-analysis.git
-cd ai-financial-market-analysis
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch the notebook
-jupyter notebook AI_Financial_Market_Analysis.ipynb
-```
-
 ## 📁 Project Structure
 
 ```
@@ -91,7 +77,7 @@ ai-financial-market-analysis/
 **Sneha Mandlik**
 Fresher Data Analyst | Python | SQL | Power BI | Mumbai
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/sneha-mandlik-29431b24a) · [GitHub](https://github.com/SnehaMandlik)
 
 ## 📄 License
 
