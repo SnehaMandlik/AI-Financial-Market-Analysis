@@ -38,7 +38,6 @@ This is a realistic synthetic dataset (no missing values), built to simulate dai
 
 1. **Google leads at scale.** Google accumulated ~$423Bn in AI R&D spend and ~$284Bn in AI revenue over the decade — more than 4x OpenAI's totals — while Meta sits in between (~$265Bn spent / ~$190Bn earned).
 2. **R&D spend and AI revenue are strongly correlated (r ≈ 0.94).** Year-over-year totals rose almost in lockstep industry-wide, from ~$49Bn spent / ~$19Bn earned in 2015 to ~$99Bn spent / ~$96Bn earned in 2024.
-3. **Product launches move the stock far more than steady growth does.** The five biggest single-day stock impacts in the dataset were all OpenAI launch events — the predicted GPT-5 release (+18.5%), GPT-4 (+15.2%), and the ChatGPT/GPT-3.5 launch (+12.0%) among them — showing announcement-driven volatility dominates short-term price moves.
 
 ## 📈 Charts & Visualizations
 
@@ -54,48 +53,13 @@ This is a realistic synthetic dataset (no missing values), built to simulate dai
 **Correlation Between Financial Metrics**
 ![Correlation heatmap](charts/04_correlation_heatmap.png)
 
-**Top 10 Single-Day Stock Impact Events**
-![Top event impact](charts/06_top_event_impact.png)
-
 **AI Revenue Growth (%) Over Time by Company**
 ![Revenue growth scatter](charts/03_revenue_growth_scatter.png)
-
-## 🚀 How to Run This Project
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/<your-username>/ai-financial-market-analysis.git
-cd ai-financial-market-analysis
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch the notebook
-jupyter notebook AI_Financial_Market_Analysis.ipynb
-```
-
-## 📁 Project Structure
-
-```
-ai-financial-market-analysis/
-├── README.md
-├── requirements.txt
-├── AI_Financial_Market_Analysis.ipynb
-├── data/
-│   └── ai_financial_market_daily_realistic_synthetic.csv
-├── charts/
-│   └── (chart images used in this README)
-└── report/
-    └── AI_Financial_Market_Analysis_Report.pdf
-```
 
 ## 👩‍💻 Author
 
 **Sneha Mandlik**
 Fresher Data Analyst | Python | SQL | Power BI | Mumbai
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/sneha-mandlik-29431b24a/) · [GitHub](https://github.com/SnehaMandlik)
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
