@@ -36,8 +36,11 @@ This is a realistic synthetic dataset (no missing values), built to simulate dai
 
 ## 🔑 Key Findings
 
-1. **Google leads at scale.** Google accumulated ~$423Bn in AI R&D spend and ~$284Bn in AI revenue over the decade — more than 4x OpenAI's totals — while Meta sits in between (~$265Bn spent / ~$190Bn earned).
-2. **R&D spend and AI revenue are strongly correlated (r ≈ 0.94).** Year-over-year totals rose almost in lockstep industry-wide, from ~$49Bn spent / ~$19Bn earned in 2015 to ~$99Bn spent / ~$96Bn earned in 2024.
+📈 Major AI product launches were associated with noticeable stock market reactions, highlighting the impact of innovation on investor sentiment.
+
+📊 Revenue growth accelerated significantly after 2019, reflecting increased adoption and commercialization of AI technologies.
+
+💰 AI revenue growth eventually outpaced R&D spending, suggesting that long-term AI investments can generate substantial returns over time.
 
 ## 📈 Charts & Visualizations
 
