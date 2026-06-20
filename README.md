@@ -2,7 +2,7 @@
 
 Exploratory Data Analysis of AI Revenue, R&D Spending, and Stock Market Impact for **OpenAI, Google, and Meta** (2015–2024), built in Python.
 
-📄 [Read the full project report (PDF)](report/AI_Financial_Market_Analysis_Report.pdf)
+📄 [Read the full project report (PDF)](AI_Financial_Market_Analysis_Report.pdf)
 
 ---
 
